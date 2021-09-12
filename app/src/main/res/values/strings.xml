@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application Morse</string>
+    <string name="morse">Type the morse code</string>
+    <string name="ok">OK</string>
+    <string name="Translation">Translation</string>
+    <string name="change">Change</string>
+    <string name="letter">Letter</string>
+    <string name="MorseLetter">Morse/Letter</string>
+    <string name="outcome">Outcome</string>
+    <string name="morse2">Type here the letters</string>
+</resources>
